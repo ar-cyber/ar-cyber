@@ -1,4 +1,11 @@
 ### Hi there 👋
+Hi! I'm Andrew! <br>
+<br>
+I make a lot of cool stuff! 
+<br><br>
+I work with <a href="https://github.com/cloudwaddie">Cloudwaddie</a>
+<br><br>
+I am currently a student
 
 ## About Me
 
