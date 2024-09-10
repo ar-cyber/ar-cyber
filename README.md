@@ -17,7 +17,7 @@ I am currently a student
 - 👯 I’m looking to collaborate with Cloudwaddie!
 - 🤔 I’m looking for help with C
 - 💬 Ask me about what I do!
-- 📫 How to reach me: <a href="mailto:25roband@cbc.sa.edu.au">Email</a>
+- 📫 How to reach me: <a href="mailto:andrew@cbc.robinand.tech">Email</a>
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am in Year 7
 
