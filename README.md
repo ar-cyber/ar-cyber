@@ -21,3 +21,10 @@ I am currently a student
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am in Year 7
 
+# Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ar-cyber/ar-cyber/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ar-cyber/ar-cyber/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ar-cyber/ar-cyber/output/github-snake.svg" />
+</picture>
