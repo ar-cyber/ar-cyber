@@ -19,7 +19,7 @@ I am currently a student
 - 💬 Ask me about what I do!
 - 📫 How to reach me: <a href="mailto:andrew@cbc.robinand.tech">Email</a>
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I am in Year 7!
+- ⚡ Fun fact: I am in Year 7
 
 # Contributions
 
