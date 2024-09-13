@@ -5,7 +5,7 @@ I make a lot of cool stuff!
 <br><br>
 I work with <a href="https://github.com/cloudwaddie">Cloudwaddie</a>
 <br><br>
-I am currently a student
+I am currently a student 
 <br>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ar-cyber)](https://git.io/streak-stats)
 
