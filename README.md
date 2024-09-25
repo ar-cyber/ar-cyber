@@ -21,6 +21,9 @@ I am currently a student
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am in Year 7
 
+[![Ar-cyber's GitHub stats](https://github-readme-stats.vercel.app/api?username=ar-cyber)](https://github.com/ar-cyber)
+
+
 # Contributions
 
 <picture>
