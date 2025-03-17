@@ -1,10 +1,9 @@
-# RobinAnd
-<br>
+# `RobinAnd`<br>
+Yeah I make stuff obviously or I wouldn't be here.<br>
+Loves networking and coding.
 
-- 🔭 I’m currently working on a Raspberry Pi Weather Station
-- 🌱 I’m currently learning 
-- 💬 Ask me about what I do!
-- 📫 How to reach me: <a href="mailto:loafing@sockycat.net">Go to my email!</a>
+- 🔭 I’m currently working on a couple BetterSEQTA+ plugins.
+- 🌱 I’m currently learning way too much at a time lol
 - 😄 Pronouns: he/him
   
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ar-cyber)](https://git.io/streak-stats) [![Ar-cyber's GitHub stats](https://github-readme-stats.vercel.app/api?username=ar-cyber)](https://github.com/ar-cyber)
