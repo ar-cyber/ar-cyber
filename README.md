@@ -1,11 +1,16 @@
-# `RobinAnd`<br>
-Yeah I make stuff obviously or I wouldn't be here.<br>
-Loves networking and coding.
+# `I` `AM` `ANDREW`
+- I document lots of stuff.
+- Current member of the [BetterSEQTA+ Team](https://github.com/betterseqta) as a documentor and coder.
+- Hosts servers
 
-- 🔭 I’m currently working on a couple BetterSEQTA+ plugins.
-- 🌱 I’m currently learning way too much at a time lol
-- 😄 Pronouns: he/him
-  
+## Projects
+- SEQTA Learn API Reference at [https://seqtaapi.sockycat.net](https://seqtaapi.sockycat.net)
+- Triage and contributor at [https://github.com/betterseqta/betterseqta-plus](https://github.com/betterseqta/betterseqta-plus)
+
+## What else do I do?
+I maintain lots of different servers and install network equipment across many schools.
+# Streak and stats
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ar-cyber)](https://git.io/streak-stats) [![Ar-cyber's GitHub stats](https://github-readme-stats.vercel.app/api?username=ar-cyber)](https://github.com/ar-cyber)
 
 ## Contributions
