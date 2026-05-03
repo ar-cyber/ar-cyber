@@ -1,14 +1,13 @@
 # `I` `AM` `ANDREW`
 - I document lots of stuff.
-- Current member of the [BetterSEQTA+ Team](https://github.com/betterseqta) as a documentor and coder.
-- Hosts servers
+- Developer @ [BetterSEQTA+ Team](https://github.com/betterseqta).
+- Developer @ [ERM Systems](https://discord.gg/BZBcF95Ayp)
+- Developer @ [Tactical](https://discord.gg/BZBcF95Ayp)
 
 ## Projects
-- SEQTA Learn API Reference at [https://seqtaapi.sockycat.net](https://seqtaapi.sockycat.net)
-- Triage and contributor at [https://github.com/betterseqta/betterseqta-plus](https://github.com/betterseqta/betterseqta-plus)
-
-## What else do I do?
-I maintain lots of different servers and install network equipment across many schools.
+- ERM: https://github.com/mikeywhiston/erm
+- Tactical: https://github.com/tacticalbot
+- BetterSEQTA+ & DesQTA: https://github.com/betterseqta
 # Streak and stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ar-cyber&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2"></img>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ar-cyber)](https://git.io/streak-stats) [![Ar-cyber's GitHub stats](https://github-readme-stats.vercel.app/api?username=ar-cyber)](https://github.com/ar-cyber)
