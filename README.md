@@ -5,8 +5,7 @@
 - Developer @ [Tactical](https://discord.gg/BZBcF95Ayp)
 
 ## Projects
-- ERM: https://github.com/mikeywhiston/erm
-- Tactical: https://github.com/tacticalbot
+- AdvertisingERLC: https://aderlc.xyz
 - BetterSEQTA+ & DesQTA: https://github.com/betterseqta
 # Streak and stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ar-cyber&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2"></img>
